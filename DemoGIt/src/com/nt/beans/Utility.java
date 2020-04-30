@@ -20,10 +20,10 @@ public void m2()
 	}
 
 public void m4()
-{}
+{System.out.println("dbddndb");}
 public void m3()
 
-{System.out.println("m3");
+{System.out.println("m3ss");
 	}
 }
 
